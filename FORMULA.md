@@ -37,18 +37,14 @@ $$
     \text{Load line: } i_x &= -\frac{v_x}{R_T}+ \frac{v_t}{R_T}\\
     \text{General: } A_v &= \frac{v_{out}}{v_{in}}\\
     \text{Inverting: } A_v &= -\frac{R_f}{R_{in}}\\
-    \text{Non Inverting: } A_v &= 1+\frac{R_f}{R_{in}}\\
+    \text{Non Inverting: } A_v &= 1+\frac{R_f}{R_{1}}\\
     \text{Series of op amps total: } A_v &= (A_v)_1\times(A_v)_2\times \dots\times (A_v)_n
 \end{align}
 $$
 
-## Inverting
-
-![](2022-05-31-15-52-51.png)
-
-## Non-inverting
-
-![](2022-05-31-15-53-03.png)
+| Inverting                    | Non-inverting                |
+| ---------------------------- | ---------------------------- |
+| ![](2022-06-07-14-07-20.png) | ![](2022-06-07-14-12-26.png) |
 
 # Chapter 5
 
