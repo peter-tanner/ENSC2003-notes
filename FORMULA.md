@@ -175,9 +175,6 @@ $$
 Where $\bar{V}=V\angle\theta$ and $\bar{I}=I\angle\phi$:
 
 $$
-$$
-
-$$
 \let\lb=( \let\rb=) \def\({\left\lb} \def\){\right\rb} % Put \left(,\right) on \(,\)
 \begin{align}
     \text{Complex [VA]: }\bar{S} &= \bar{V}_\text{rms}\times \bar{I}_\text{rms}^* = \frac{\bar{V}\times \bar{I}^*}{2} = \frac{VI}{2}\angle\(\theta-\phi\)\\
@@ -213,7 +210,7 @@ $$ \varphi = \arctan\left(\frac{Q}{P}\right)$$
 | $Q$         | $Q>0$          | $Q<0$         | $Q=0$        |
 | $\varphi$   | $\varphi>0°$   | $\varphi<0°$  | $\varphi=0°$ |
 | PF [Load]   | $[0,1)$        | $[0,1)$       | $1$          |
-| PF [Soruce] | $[0,-1)$       | $[0,-1)$      | $-1$         |
+| PF [Source] | $[0,-1)$       | $[0,-1)$      | $-1$         |
 
 # Chapter 8
 
